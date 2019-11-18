@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OhMyGod</string>
+    <string name="record">祭拜紀錄</string>
+    <string name="people">信徒：</string>
+    <string name="item">祭品：</string>
+    <string name="time">時間：</string>
+    <string name="pry">祭拜</string>
+    <string name="cancel">取消</string>
+    <string name="input">請在此輸入姓名</string>
+
+
+</resources>
